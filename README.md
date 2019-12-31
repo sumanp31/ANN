@@ -11,7 +11,7 @@
 
 3. Third activation layer has 6 units, is uniformly initialized and has a RELU activation function.
 
-4. Fourth activation layer has 6 units, is uniformly initialized and has a RELU activation function.
+4. Fourth activation layer has 1 units, is uniformly initialized and has a SIGMOID activation function.
 
 
 ## Experiment
