@@ -29,8 +29,8 @@
 ## Result
 
 The final accuracy is at 85.2% and it is achieved for the following set of hyperparameters. 
-batch_size : 32
-epochs : 700
-optimizer : rmsprop
+```batch_size : 32, 
+epochs : 700, 
+optimizer : rmsprop```
 
 ![](https://github.com/sumanp31/ANN/blob/master/result_screenshot.png) 
